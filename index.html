@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html lang="es">
+    <head>
+        <meta charset="utf-8">
+        <title>Encriptador</title>
+        <link rel="stylesheet" href ="reset.css">
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+        <h1 class="titulo">Encriptador de Mensajes</h1> 
+                
+        <main class="main">
+            <section class="formulario">
+                <form action="">
+                    <label for="input-texto"><p>Solo letras minúsculas, sin acento</p></label>
+                    <textarea cols="70" rows="10" class="text-input" type="text" name="input-texto" id="input-texto" placeholder="Ingrese el texto aqui"></textarea>
+                    <input class="boton" type="button" value="Encriptar" id="boton-encriptar">
+                    <input class="boton" type="button" value="Desencriptar" id="boton-desencriptar">
+                </form>
+            </section>
+            <section class="caja-mensaje">
+                <h2 id="h2">Mensaje Encriptado/Desencriptado</h2>
+                <textarea class="text-input-salida" cols="70" rows="10" type="text" id="mensaje" placeholder="Mensaje devuelto"></textarea>               
+            </section>
+        </main>
+        <script src="script.js"></script>
+        
+
+
+        </main>
+
+
+    </body>
+
+
+
+
+</html>
+

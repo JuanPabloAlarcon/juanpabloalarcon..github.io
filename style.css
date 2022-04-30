@@ -1,0 +1,140 @@
+
+body{
+    display: 940px;
+    background: radial-gradient(lightblue 30%, blue,lightblue, blue, black);
+    
+}
+
+.titulo{
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    color: goldenrod;
+    
+}
+form input{    
+    display: block;
+    margin: 10px;
+    padding: 5px 5px;
+    width: 40%;
+    border-radius: 5px; 
+    text-align: center;   
+}
+#input-texto{
+    border-radius: 15px;
+    text-align: left;
+    display: inline-block;
+    width: 50%;
+    margin: 10px;
+}
+p{    
+    font-weight: bold;
+    margin: 5px;
+}
+#boton-encriptar{
+    text-align: center;
+    font-weight: bold;
+    background: blue;
+    color: goldenrod;
+    border-radius: 25px;    
+    font-size: 20px  
+         
+}
+#boton-desencriptar{
+    font-weight: bold;
+    background: blue;
+    color:goldenrod;
+    border-radius: 25px;
+    font-size: 20px;
+}
+#h2{
+    font-size: 15px;
+    font-weight: bold;
+}
+#mensaje{
+    display: 940px;
+    margin: 2px 5px 2px;
+    padding: 15px 25px;
+    width: 50%;
+    border-radius: 20px;
+}
+.caja-mensaje{    
+    display: inline-block;
+    font-size: 20px;
+    margin: 5px;
+    width: 100%;   
+}
+.text-input-salida{
+    font-weight: 50%;
+    width: 20%;
+    margin: 0 40px 0 40px;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 10px;    
+}
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
